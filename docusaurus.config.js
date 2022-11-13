@@ -9,12 +9,12 @@ const config = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  baseUrl: "/petstore-api/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "elenaspb2019", // Usually your GitHub org/user name.
-  projectName: "api-test", // Usually your repo name.
+  projectName: "petstore-api", // Usually your repo name.
   deploymentBranch: "gh-pages",
   
 
