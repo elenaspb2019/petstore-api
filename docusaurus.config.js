@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Paws & Tails",
-  tagline: "Providing IT consulting for your pets  since 2013",
+  tagline: "Providing IT consulting services for your pets since 2013",
   url: "https://elenaspb2019.github.io/",
   baseUrl: "/petstore-api/",
   onBrokenLinks: "throw",
@@ -73,23 +73,6 @@ const config = {
               {
                 label: "How to use Paws & Tails API",
                 to: "/docs/userguide",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
               },
             ],
           },
