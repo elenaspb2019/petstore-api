@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Paws & Tails",
   tagline: "Providing IT consulting for your pets  since 2013",
-  url: "https://elenaspb2019.github.io/petstore-api/",
+  url: "https://elenaspb2019.github.io/",
   baseUrl: "/petstore-api/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
