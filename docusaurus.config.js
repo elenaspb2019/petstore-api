@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  title: "Paws & Tails",
+  tagline: "Providing IT consulting for your pets  since 2013",
+  url: "https://elenaspb2019.github.io/petstore-api/",
   baseUrl: "/petstore-api/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -94,7 +94,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Paws & Tails, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
