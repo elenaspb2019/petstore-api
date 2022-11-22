@@ -63,8 +63,6 @@ In this tutorial, you will learn how to add a new pet to a database, update and 
 
 5. To find all available pets, send the following request with the `available` status:
 
-   Curl:
-
    ```bash
    curl -X 'GET' \
      'https://petstore3.swagger.io/api/v3/pet/findByStatus?status=available' \
